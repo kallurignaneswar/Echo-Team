@@ -1,0 +1,141 @@
+
+body{
+    background-color:rgb(9, 7, 7);
+}
+#Name{
+    font-size:70px;
+    color:pink;
+    margin-top:-20%;
+    margin-left:15%;
+}
+.Image{
+    text-align:right;
+    width:400px;
+    margin-left:750px;
+    background-position:right;
+    margin-top:20px;
+    
+}
+
+nav ul li{
+    display:inline-block;
+    list-style:none;
+    margin:10px 20px;
+}
+nav{
+    display:flex;
+    text-align:center;
+    margin-left:700px;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+nav ul li a {
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    position:relative;
+}
+.About-image{
+    width:400px;
+    margin-top:10%;
+
+}
+#About{
+    padding:0px 0px;
+    color:rgb(13, 104, 112);
+    margin-top:-350px;
+    margin-left:30%;
+    font-size:50px;
+}
+#Objective{
+    display:flex;
+    flex-wrap:wrap;
+}
+p{
+    color:white;
+    margin-left:30%;
+    margin-top:-250px;
+    font-size:27px;
+    font-family: "Helvetica"sans-serif;
+}
+p span{
+    color:blue;
+    overflow:hidden;
+
+}
+.Hobby{
+    margin-top:-11%;
+}
+#Qualification{
+    color:rgb(231, 225, 230);
+    position:relative;
+    margin-top:-200px;
+    text-align:left;
+    
+}
+#Academic-details{
+    color:rgb(13, 104, 112);
+    justify-content:space-between;
+    box-sizing: border-box;
+    padding:10px;
+    font-size:50px;
+    margin-top:18%;
+    margin-left:5%;
+}
+.My-Edu{
+    border:6px dotted rgb(106, 102, 108);
+    color:white;
+    margin-left:20%;
+    margin-top:5%;
+    font-size:20px;
+}
+#known-skills{
+    color:rgb(13, 104, 112);
+    position:relative;
+    margin-top:5%;
+    text-align:left;
+    margin-left:5%;
+    font-size:50px;
+}
+#my-skills{
+    color:white;
+    margin-left:45px;
+    margin-top:40px;
+}
+.headings{
+    color:blue;
+   
+} 
+.Languages{
+    font-size:20px;
+}   
+#My-contact{
+    color:rgb(13, 104, 112);
+    font-size:50px;
+    margin-left:5%;
+}
+#Contact{
+    color:white;
+    margin-left:3%px;
+    margin-top:50%;
+}
+.E-mail{
+    color:blue;
+    font-size:15px;
+    margin-top:-49%;
+    margin-left:80px;
+
+}
+.Phone-num{
+    color:blue;
+    font-size:15px;
+    margin-top:-0.5%;
+    margin-left:80px;
+}
+#Social-media {
+    color:red;
+    margin-left:3%;
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
